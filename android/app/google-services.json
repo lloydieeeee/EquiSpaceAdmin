@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1064605830143",
+    "project_id": "equispace-ed192",
+    "storage_bucket": "equispace-ed192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064605830143:android:24b55556911b491a9135ca",
+        "android_client_info": {
+          "package_name": "com.equispace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064605830143-i1n6tfitl64v9bede1p4a3tc89256oa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0e_Gju2jmOflEMZQL_hmt91MulVf9esc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064605830143-i1n6tfitl64v9bede1p4a3tc89256oa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064605830143:android:b45b2ecd04825a469135ca",
+        "android_client_info": {
+          "package_name": "com.equispaceadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064605830143-i1n6tfitl64v9bede1p4a3tc89256oa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0e_Gju2jmOflEMZQL_hmt91MulVf9esc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064605830143-i1n6tfitl64v9bede1p4a3tc89256oa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
